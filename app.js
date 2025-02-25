@@ -41,9 +41,9 @@ function sortearAmigo() {
     return;
   }
   //validar número necessário de amigos
-  if (amigos.length < 3) {
-    //se amigos for menor que 3, então
-    alert("Adicione ao menos 3 nomes para sortear o amigo secreto");
+  if (amigos.length < 4) {
+    //se amigos for menor que 4, então
+    alert("Adicione ao menos 4 nomes para sortear o amigo secreto");
     return;
   }
   //sortear amigo aleatório
