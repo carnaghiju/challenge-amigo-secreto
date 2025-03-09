@@ -1,5 +1,3 @@
-# challenge-amigo-secreto,,
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -53,11 +51,9 @@
 </head>
 <body>
   <div class="container">
-    <!-- Título e Imagem de Capa -->
+
     <div class="section">
       <h1>🎁 Challenge Amigo Secreto</h1>
-      <img src="https://via.placeholder.com/800x400.png?text=Imagem+de+Capa+do+Projeto" alt="Imagem de Capa do Projeto">
-    </div>
 
     <div class="section">
       <h2>Badges</h2>
